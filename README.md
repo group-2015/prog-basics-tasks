@@ -14,7 +14,7 @@
 2. Реализация алгоритма DDA-линии ([Бурков](https://github.com/become-iron/diff-python-scripts/tree/master/dda), [Воробьёва](https://github.com/LinaVorob/DDA--lines)).
 3. Реализация кодов Хэмминга ([Поволоцкий](https://github.com/yaranik)).
 4. Реализация кодов Рида—Соломона.
-5. Реализация алгоритма циклического избыточного кода. ([Сулейманова] (https://github.com/kolombina))
+5. Реализация алгоритма циклического избыточного кода. 
 6. Реализация кодов Боуза—Чоудхури—Окенгема.
 7. Реализация кодов Хаффмана ([Цветков](https://github.com/Petr-tsvetkov31), [Жукова](https://github.com/Oksana-Zhykova)).
 8. Реализация алгоритма Шеннона—Фано ([Красногорская, Гусманов](https://github.com/gdaniela2009/Repository-name)).
