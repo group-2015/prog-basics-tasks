@@ -45,7 +45,7 @@
 33. Реализация алгоритма поиска контрольной суммы Флетчера.
 34. Реализация алгоритма Боейра—Ватсона для случая триангуляции Делоне.
 35. Реализация алгоритма Гилберта—Джонсона—Кёрти.
-36. Игра. Платформер ([Китов,Мерцалов](https://github.com/Forsenlol/Platformer))
+36. Игра. Платформер ([Китов,Мерцалов](https://github.com/Forsenlol/SuperMarioBoy))
 37. Коммутатор звуковых каналов [[HexAxis](http://hexaxis.ru)] AudioSwitcher ([Колесников](https://github.com/Crusherk14/HexAxis-AudioSwitcher))
 38. [Cnake game](https://github.com/Melnick/Cnake) (Мельничук)
 
