@@ -48,6 +48,7 @@
 36. Игра. Платформер ([Китов,Мерцалов](https://github.com/Forsenlol/SuperMarioBoy))
 37. Коммутатор звуковых каналов [[HexAxis](http://hexaxis.ru)] AudioSwitcher ([Колесников](https://github.com/Crusherk14/HexAxis-AudioSwitcher))
 38. [Cnake game](https://github.com/Melnick/Cnake) (Мельничук)
+39. Calculator([Поволоцкий](https://github.com/yaranik/calculator))
 
 ### Требования к программе
 
