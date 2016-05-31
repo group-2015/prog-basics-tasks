@@ -49,6 +49,7 @@
 37. Коммутатор звуковых каналов [[HexAxis](http://hexaxis.ru)] AudioSwitcher ([Колесников](https://github.com/Crusherk14/HexAxis-AudioSwitcher))
 38. [Cnake game](https://github.com/Melnick/Cnake) (Мельничук)
 39. Calculator([Поволоцкий](https://github.com/yaranik/calculator))
+40. 2 семестр. 2048([Китов](https://github.com/Forsenlol/2048))
 
 ### Требования к программе
 
