@@ -50,6 +50,7 @@
 38. [Cnake game](https://github.com/Melnick/Cnake) (Мельничук)
 39. Calculator([Поволоцкий](https://github.com/yaranik/calculator))
 40. 2 семестр. 2048([Китов](https://github.com/Forsenlol/2048))
+41. Блокнот ([Головатый](https://github.com/golovatyi/1Term_Project))
 
 ### Требования к программе
 
